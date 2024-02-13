@@ -25,7 +25,7 @@ export default function App() {
   return(
     <div className="container">
       <h1 id={greeting}>Hello, World</h1>
-      <p>I am writing JSX</p>
+      <p>I am writing more JSX</p>
       <ul>
         {
           emojis.map(emoji => (
